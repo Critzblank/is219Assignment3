@@ -124,11 +124,13 @@ body {
 .likes{
   background-color: #008700;
   color: #ffffff;
+  -webkit-transition: 500ms;
   }
 
 .dislikes{
   background-color: #f65a5b;
   color: #ffffff;
+  -webkit-transition: 500ms;
   }
   
 .likes:hover{

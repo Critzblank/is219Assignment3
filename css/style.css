@@ -140,6 +140,11 @@ body {
   background-color: #fdd6d6;
   color: #F65A5B;
   }
+  
+.poster:hover{
+  cursor: pointer;
+  }
+
 
 
 

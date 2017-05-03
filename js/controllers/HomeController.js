@@ -88,6 +88,48 @@ app.controller('HomeController', ['$scope', function($scope) {
       likes:	812,
       dislikes:	101,
       posterindex: 0
+	},
+  { 
+      title:	'Fear and Loathing in Las Vegas', 
+      iscore:	7.7,
+      rating:	'R',
+      runtime:	118,
+      released:	new Date('1998', '5', '22'),
+      country:	'USA',
+      posters:	['img/fear1.jpg', 'img/fear2.png'],
+      imdb:		'http://www.imdb.com/title/tt0120669',
+      website:	'https://www.uphe.com/movies/fear-and-loathing-in-las-vegas',
+      likes:	100,
+      dislikes:	10,
+      posterindex: 0
+	},
+  { 
+      title:	'The Big Lebowski', 
+      iscore:	8.2,
+      rating:	'R',
+      runtime:	117,
+      released:	new Date('1998', '2', '6'),
+      country:	'USA',
+      posters:	['img/big1.jpg', 'img/big2.jpg'],
+      imdb:		'http://www.imdb.com/title/tt0118715',
+      website:	'http://dudeism.com/',
+      likes:	100,
+      dislikes:	10,
+      posterindex: 0
+	},
+  { 
+      title:	'2001: A Space Odyseey', 
+      iscore:	8.3,
+      rating:	'R',
+      runtime:	149,
+      released:	new Date('1968', '5', '12'),
+      country:	'UK',
+      posters:	['img/space1.jpg', 'img/space2.png'],
+      imdb:		'http://www.imdb.com/title/tt0062622',
+      website:	'http://www.kubrick2001.com/',
+      likes:	100,
+      dislikes:	10,
+      posterindex: 0
 	}
 	
 	
